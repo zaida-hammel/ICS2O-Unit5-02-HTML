@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="u7FgymlRyywQNCJe3RCH" name="Page-1">
+        <mxGraphModel dx="1074" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="38" y="39" width="400" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&amp;nbsp; &amp;nbsp; Integers, with JS." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="38" y="40" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="line;strokeWidth=1;direction=south;html=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="80" width="10" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#8F8F8F;" parent="1" vertex="1">
+                    <mxGeometry x="48" y="138" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font color=&quot;#080808&quot;&gt;Enter any integer (negative or positive)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#BFBFBF;" vertex="1" parent="1">
+                    <mxGeometry x="38" y="100" width="230" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Determine" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#080808;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="170" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="The integer you entered is negative." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#080808;" vertex="1" parent="1">
+                    <mxGeometry x="48" y="200" width="210" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
