@@ -17,11 +17,12 @@ if (navigator.serviceWorker) {
  * This function determines if an integer is negative or positive.
  */
 function myButtonClicked() {
-  const userInteger = parseInt(document.getElementById('integer').value)
+  const userInteger = parseInt(document.getElementById("integer").value);
   if (userInteger > -1) {
-  document.getElementById("answer").innerHTML = "The integer you input is positive."
+    document.getElementById("answer").innerHTML =
+      "The integer you input is positive.";
   } else {
-  document.getElementById("answer").innerHTML = "The integer you input is a negative."
+    document.getElementById("answer").innerHTML =
+      "The integer you input is a negative.";
+  }
 }
-}
-
